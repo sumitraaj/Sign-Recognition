@@ -1,0 +1,1 @@
+The Sign Recognition Machine Learning Project aims to develop a robust model capable of recognizing various signs, such as traffic signs, hand signs, or sign language gestures, from images. This project utilizes deep learning techniques to achieve high accuracy in sign detection and classification.
